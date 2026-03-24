@@ -11,9 +11,10 @@
 </p>
 
 <p align="center">
+  <a href="https://drive.google.com/drive/u/5/home">💻 Resume</a>
   <a href="mailto:rishabhtomar.in@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/rishabh-tomar-8a7885243/">💼 LinkedIn</a> •
-  <a href="https://github.com/Rishabh-39">💻 GitHub</a>
+
 </p>
 
 ---
