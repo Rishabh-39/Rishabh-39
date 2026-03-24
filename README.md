@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I am an **Electronics Engineering student at RGIPT** passionate about building **robotics solutions and full-stack applications**.  
+I am an **Electronics Engineering student at RGIPT** passionate about building **full-stack applications and robotics solutions**.  
 
 I enjoy working at the intersection of **hardware and software**, developing real-world systems involving **IoT, control systems, and scalable web applications**.
 
