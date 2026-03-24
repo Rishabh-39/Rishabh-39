@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Tomar</h1>
-<h3 align="center">Embedded Systems Engineer | Robotics Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Robotics Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/Rishabh-39">
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I am an **Electronics Engineering student at RGIPT** passionate about building **embedded systems, robotics solutions, and full-stack applications**.  
+I am an **Electronics Engineering student at RGIPT** passionate about building **robotics solutions and full-stack applications**.  
 
 I enjoy working at the intersection of **hardware and software**, developing real-world systems involving **IoT, control systems, and scalable web applications**.
 
