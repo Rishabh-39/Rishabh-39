@@ -35,7 +35,7 @@ I enjoy working at the intersection of **hardware and software**, developing rea
 - Implemented **JWT authentication**, REST APIs, and file sharing  
 - Deployed on **Vercel + Render**  
 
-👉 [Live Demo](https://bit-sync-chat-app.vercel.app) | [GitHub](https://github.com/Rishabh-39/BitSync-Chat-App)
+👉 [Live Demo](https://bit-sync-chat-app.vercel.app)
 
 ---
 
@@ -44,7 +44,7 @@ I enjoy working at the intersection of **hardware and software**, developing rea
 - Built using **React hooks + GSAP animations**  
 - Added **user controls (speed, array size)** and help module  
 
-👉 [Live Demo](https://algo-sort-visualizer-tau.vercel.app/) | [GitHub](https://github.com/Rishabh-39/AlgoSort-Visualizer)
+👉 [Live Demo](https://algo-sort-visualizer-tau.vercel.app/)
 
 ---
 
