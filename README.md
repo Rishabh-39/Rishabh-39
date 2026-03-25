@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I am an **Electronics Engineering student at RGIPT** passionate about building **full-stack applications and robotics solutions**.  
+I am an **Electronics Engineering student at RGIPT** with a strong interest in **full-stack development and robotics solutions**.  
 
 I enjoy working at the intersection of **hardware and software**, developing real-world systems involving **IoT, control systems, and scalable web applications**.
 
@@ -30,7 +30,7 @@ I enjoy working at the intersection of **hardware and software**, developing rea
 ## 🔬 Projects
 
 ### 💬 **Real-Time Chat Application (BitSync)**
-- Built a **full-stack real-time messaging platform** using React, Node.js, Express, MongoDB, and Socket.IO  
+- Built a **real-time messaging platform** using React, Node.js, Express, MongoDB, and Socket.IO  
 - Achieved **low-latency communication (<100ms)** with support for one-to-one and group chat  
 - Implemented **JWT authentication**, REST APIs, and file sharing  
 - Deployed on **Vercel + Render**  
@@ -99,7 +99,7 @@ I enjoy working at the intersection of **hardware and software**, developing rea
 ## 👨‍💼 Positions of Responsibility
 
 - **Vice Secretary** – IEEE Robotics and Automation Society, RGIPT  
-- **Coordinator** – Urjotsav Technical Fest  
+- **Event Coordinator** – Urjotsav Technical Fest  
 
 ---
 
