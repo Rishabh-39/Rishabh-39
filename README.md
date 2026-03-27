@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Tomar</h1>
-<h3 align="center">Full-Stack Developer | Robotics Enthusiast</h3>
+<h3 align="center">Full-Stack Web Developer | Robotics Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Rishabh-39">
