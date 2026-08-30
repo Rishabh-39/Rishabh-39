@@ -29,11 +29,13 @@ I enjoy working at the intersection of **hardware and software**, building real-
 ## ⚙️ Experience
 
 ### 🏢 **Teamarcs Technologies Private Limited** — Software Engineer Intern (May 2026 – Jul 2026)
+[Certificate](https://drive.google.com/file/d/1Ja3UOtzqTfPNyKH5tyl7l4GzvOQeBrHQ/view)
 - Contributed to **DayCare Management System**, a production-level enterprise application, working across React.js, NestJS, JavaScript, and PostgreSQL, wiring up REST APIs and managing the database
 - Engineered the **Admin Panel, Children Management, Staff Management, Waitlist Management**, and dashboard modules, delivering CRUD functionality across multiple features
 - Architected the complete **Leave Management module** end-to-end — Allocation, Application, Summary, Balance tracking, History, and Analytics — unifying frontend, backend, and database layers
 
 ### 🛡️ **Bharat Electronics Limited (BEL)** — Embedded Systems Intern (May 2025 – Jul 2025)
+[Certificate](https://drive.google.com/file/d/1_3K-sexUP56pXJzAU3w4me9TWOCAraGW/view)
 - Designed and tested a **power adapter PCB** for a Laser Range Finder deployed in Indian defense systems, reducing design iteration time by 20%
 - Integrated **sensor fusion and control algorithms** for autonomous robotics navigation, improving system stability and reducing navigation error by 15%
 
