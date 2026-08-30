@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/u/5/home">💻 Resume</a> •
+  <a href="https://drive.google.com/file/d/1g6992cqTPmQkIT0xLe4yr5B2ByYwRehz/view">💻 Resume</a> •
   <a href="mailto:rishabhtomar.in@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/rishabh-tomar-8a7885243/">💼 LinkedIn</a>
 </p>
